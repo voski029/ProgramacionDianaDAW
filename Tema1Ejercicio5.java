@@ -2,6 +2,7 @@ package Tema1;
 
 public class Tema1Ejercicio5 {
     public static void main(String[] args) {
+        //hbhnjk
         int primero = 24 % 5;
         double segundo = (7 / 2) + 2.5;
         double tercero = (10.8 / 2) + 2;
